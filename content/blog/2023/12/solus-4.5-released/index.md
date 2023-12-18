@@ -149,7 +149,7 @@ Upstream release notes for Plasma since Solus 4.4 can be found here:
 
 ### Defaults configuration changes
 
-- TODO
+- TODO Girt's changes to plasma branding
 
 ## Download
 
