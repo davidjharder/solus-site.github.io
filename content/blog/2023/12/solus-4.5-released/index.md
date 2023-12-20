@@ -36,9 +36,9 @@ For audio and video multimedia playback, we offer software out-of-the-box that c
 
 TODO: are there other default apps worth highlighting?
 
-- Budgie, GNOME, and MATE editions all ship with Rhythmbox for audio playback, with the latest release of the Alternate Toolbar extension to provide a more modern user experience.
+- Budgie and GNOME editions ship with Rhythmbox for audio playback, with the latest release of the Alternate Toolbar extension to provide a more modern user experience.
 - Budgie and GNOME ship with Celluloid for video playback.
-- MATE ships with VLC for video playback.
+- XFCE ships with Parole for multimedia playback.
 - Plasma ships with Elisa for audio playback and Haruna for video playback.
 
 ### Pipewire by default
@@ -80,7 +80,7 @@ Solus ships with [Budgie 10.8.2](https://blog.buddiesofbudgie.org/budgie-10-8-2-
 
 ### Dark style preference support
 
-The "Dark Theme" toggle in Budgie Settings now also sets the dark theme preference for applications. Some applications may override with a specific color scheme; for example a photo editor may prefer a dark canvas, however  this standardized, vendor-neutral setting should help to create a more consistent experience for our users.
+The "Dark Theme" toggle in Budgie Settings now also sets the dark theme preference for applications. Some applications may override this with a specific color scheme; for example a photo editor may prefer a dark canvas, however, this standardized, vendor-neutral setting should help to create a more consistent experience for our users.
 
 ### Budgie trash applet
 
@@ -125,14 +125,18 @@ In the [Solus 4.4 release post](/2023/07/08/solus-4-4-released) we announced our
 
 The new XFCE edition includes:
 
-- XFCE version TODO
-- TODO other default apps introduced for XFCE
-- TODO interesting OOTB configs
+- XFCE version 4.18
+- Mousepad 0.6.1
+- Parole 4.18.0
+- Ristretto 0.13.1
+- Thunar 4.18.6
+- Whiskermenu 2.8.0
+
+Our XFCE edition features a traditional desktop layout with a bottom panel and Whiskermenu as the application menu. It is using the Qogir GTK theme with the Papirus icon theme for a sleek and modern look. Blueman comes installed for all of your Bluetooth needs. This edition has taken a lot of work, and we are excited to share it with you all!
 
 ## Future of MATE installations
 
 We are still working on a seamless transition path for existing users of the MATE desktop. In broad terms, we will provide a way for users to transition their MATE installations to XFCE. MATE will continue to be supported for existing users until we are confident in our transition plan.
-
 
 ## Plasma
 
